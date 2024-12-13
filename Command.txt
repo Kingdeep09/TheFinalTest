@@ -1,0 +1,6 @@
+git init
+git add MyFile.txt
+mkdir Info
+touch Info/InfoFile1 Info/InfoFile2
+git add Info/*
+git config user.name "Deepak_git_01_INFO"
